@@ -1,0 +1,51 @@
+location_id,customer_name,address,city,postal_code,region
+1,Customer1,1 Main St,Tucson,99279,South
+2,Customer2,2 Main St,Tucson,91434,West
+3,Customer3,3 Main St,Tucson,94257,North
+4,Customer4,4 Main St,San Jose,99928,West
+5,Customer5,5 Main St,Denver,97873,North
+6,Customer6,6 Main St,Tucson,94611,East
+7,Customer7,7 Main St,Denver,98359,North
+8,Customer8,8 Main St,Denver,95557,West
+9,Customer9,9 Main St,San Jose,91106,East
+10,Customer10,10 Main St,Tucson,93615,East
+11,Customer11,11 Main St,Phoenix,97924,East
+12,Customer12,12 Main St,San Jose,96574,West
+13,Customer13,13 Main St,Phoenix,95552,South
+14,Customer14,14 Main St,Denver,93547,South
+15,Customer15,15 Main St,Denver,94527,South
+16,Customer16,16 Main St,San Jose,96514,West
+17,Customer17,17 Main St,San Jose,92674,East
+18,Customer18,18 Main St,Phoenix,92519,South
+19,Customer19,19 Main St,Tucson,97224,West
+20,Customer20,20 Main St,Phoenix,92584,South
+21,Customer21,21 Main St,San Jose,96881,North
+22,Customer22,22 Main St,Phoenix,96635,South
+23,Customer23,23 Main St,San Jose,95333,South
+24,Customer24,24 Main St,Phoenix,91711,East
+25,Customer25,25 Main St,San Jose,98527,West
+26,Customer26,26 Main St,San Jose,99785,East
+27,Customer27,27 Main St,San Jose,93045,East
+28,Customer28,28 Main St,Tucson,97201,East
+29,Customer29,29 Main St,Phoenix,92291,East
+30,Customer30,30 Main St,Phoenix,95803,East
+31,Customer31,31 Main St,Phoenix,96925,South
+32,Customer32,32 Main St,San Jose,94150,East
+33,Customer33,33 Main St,Phoenix,92139,East
+34,Customer34,34 Main St,Phoenix,91750,West
+35,Customer35,35 Main St,San Jose,94733,North
+36,Customer36,36 Main St,Denver,95741,South
+37,Customer37,37 Main St,San Jose,92307,South
+38,Customer38,38 Main St,Phoenix,94814,South
+39,Customer39,39 Main St,San Jose,92654,East
+40,Customer40,40 Main St,Denver,97227,East
+41,Customer41,41 Main St,San Jose,95554,East
+42,Customer42,42 Main St,Phoenix,98428,West
+43,Customer43,43 Main St,Denver,96977,North
+44,Customer44,44 Main St,Tucson,93664,East
+45,Customer45,45 Main St,Phoenix,97065,North
+46,Customer46,46 Main St,Denver,96820,West
+47,Customer47,47 Main St,Denver,94432,South
+48,Customer48,48 Main St,Tucson,95374,East
+49,Customer49,49 Main St,San Jose,92169,North
+50,Customer50,50 Main St,San Jose,93803,North

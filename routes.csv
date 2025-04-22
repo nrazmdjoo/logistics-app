@@ -1,0 +1,31 @@
+route_id,origin_city,destination_city,average_distance_km,expected_duration_min
+1,Las Vegas,San Jose,773,978
+2,Phoenix,Denver,537,554
+3,San Diego,San Jose,217,566
+4,Phoenix,San Jose,870,368
+5,San Diego,San Jose,1429,285
+6,Los Angeles,Tucson,367,1103
+7,Phoenix,Tucson,1177,1139
+8,San Diego,Denver,335,661
+9,Los Angeles,San Jose,488,878
+10,Phoenix,San Jose,1089,1249
+11,Phoenix,Tucson,862,200
+12,San Diego,San Jose,500,252
+13,San Diego,Tucson,723,916
+14,San Diego,San Jose,866,1019
+15,Los Angeles,Denver,1426,257
+16,San Diego,San Jose,1018,303
+17,Phoenix,San Jose,1330,904
+18,Phoenix,Salt Lake City,1352,1103
+19,San Diego,Tucson,952,188
+20,San Diego,San Jose,677,665
+21,Las Vegas,San Jose,174,172
+22,Phoenix,Salt Lake City,534,324
+23,Los Angeles,Salt Lake City,202,245
+24,Las Vegas,Tucson,863,162
+25,San Diego,Salt Lake City,837,230
+26,San Diego,Denver,905,880
+27,Phoenix,Salt Lake City,1429,1326
+28,San Diego,Denver,197,967
+29,Los Angeles,Tucson,897,214
+30,Phoenix,Tucson,1458,1019

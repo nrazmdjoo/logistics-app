@@ -1,0 +1,21 @@
+vehicle_id,vehicle_type,license_plate,capacity_kg,fuel_type,purchase_date,maintenance_status
+1,Van,XYZ1000,9114,Electric,2015-12-31,Overdue
+2,Truck,XYZ1001,7131,Electric,2016-12-31,Up to date
+3,Truck,XYZ1002,3353,Diesel,2017-12-31,Pending
+4,Van,XYZ1003,4783,Diesel,2018-12-31,Pending
+5,Truck,XYZ1004,4831,Electric,2019-12-31,Overdue
+6,Van,XYZ1005,7063,Electric,2020-12-31,Up to date
+7,Truck,XYZ1006,2357,Diesel,2021-12-31,Overdue
+8,Truck,XYZ1007,5019,Electric,2022-12-31,Up to date
+9,Truck,XYZ1008,9575,Diesel,2023-12-31,Pending
+10,Van,XYZ1009,2667,Diesel,2024-12-31,Pending
+11,Truck,XYZ1010,6468,Diesel,2025-12-31,Pending
+12,Truck,XYZ1011,7127,Diesel,2026-12-31,Pending
+13,Truck,XYZ1012,3145,Diesel,2027-12-31,Overdue
+14,Truck,XYZ1013,7467,Electric,2028-12-31,Up to date
+15,Van,XYZ1014,8819,Diesel,2029-12-31,Up to date
+16,Van,XYZ1015,6185,Electric,2030-12-31,Overdue
+17,Truck,XYZ1016,5719,Electric,2031-12-31,Up to date
+18,Van,XYZ1017,4745,Diesel,2032-12-31,Pending
+19,Truck,XYZ1018,9483,Diesel,2033-12-31,Up to date
+20,Truck,XYZ1019,9345,Electric,2034-12-31,Pending
